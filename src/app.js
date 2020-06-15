@@ -15,4 +15,4 @@ btn.addEventListener("click", () => {
   val = 0;
 });
 
-// console.log("Hey Bros ... Men");
+// alert("Hey Bros ... ");
