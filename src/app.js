@@ -1,4 +1,6 @@
 import getIds from "./utils/getIds";
+import "./style.css";
+
 const input = document.querySelector(`input[type="number"]`);
 const btn = document.querySelector("button");
 
@@ -12,3 +14,5 @@ btn.addEventListener("click", () => {
   input.value = 0;
   val = 0;
 });
+
+// console.log("Hey Bros ... Men");
